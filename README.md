@@ -17,7 +17,7 @@ Built in Google Colab with Linear Regression.
 
 ## Results
 - R² Score: -0.42725777155687017
-- RMSE: 119424751.80311976
+- RMSE: 119424751.80311975
   
 
 ##[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17iWIM2ljVP6Gr1FlcNWPYHr3_TGVivyW?usp=sharing)
